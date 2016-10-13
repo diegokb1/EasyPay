@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyPay", "EasyPay\EasyPay.csproj", "{7B635475-F072-47BF-BEFA-5E4C4D39195D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyPay.Data", "EasyPay.Data\EasyPay.Data.csproj", "{D0236CEE-FE97-477E-9143-55C0F3A66F0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyPay.Data.DataAccess", "EasyPay.Data.DataAccess\EasyPay.Data.DataAccess.csproj", "{7A6A2F0C-6C94-43DD-B3E5-A45E0A33AAD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B635475-F072-47BF-BEFA-5E4C4D39195D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B635475-F072-47BF-BEFA-5E4C4D39195D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B635475-F072-47BF-BEFA-5E4C4D39195D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B635475-F072-47BF-BEFA-5E4C4D39195D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0236CEE-FE97-477E-9143-55C0F3A66F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0236CEE-FE97-477E-9143-55C0F3A66F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0236CEE-FE97-477E-9143-55C0F3A66F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0236CEE-FE97-477E-9143-55C0F3A66F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A6A2F0C-6C94-43DD-B3E5-A45E0A33AAD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A6A2F0C-6C94-43DD-B3E5-A45E0A33AAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A6A2F0C-6C94-43DD-B3E5-A45E0A33AAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A6A2F0C-6C94-43DD-B3E5-A45E0A33AAD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
